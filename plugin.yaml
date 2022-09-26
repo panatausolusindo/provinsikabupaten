@@ -1,0 +1,6 @@
+plugin:
+    name: 'panatau.provinsikabupaten::lang.plugin.name'
+    description: 'panatau.provinsikabupaten::lang.plugin.description'
+    author: Yfktn
+    icon: oc-icon-anchor
+    homepage: ''
